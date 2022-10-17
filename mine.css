@@ -1,0 +1,54 @@
+body
+{
+font-family: Avenir,Arial,sans-serif;
+background-color: #BDC5F2;
+padding: 10%;
+}
+
+#left, #right {
+  position: fixed;
+  width: 10%;
+  height: 100%;
+  top: 0
+}
+#left {
+  background: yellow;
+  left: 0
+
+}
+#right{
+  background: yellow;
+  right: 0
+}
+#container {
+  background: yellow;
+  width: 10%;
+  margin: 0 auto;
+  position: relative
+}
+.screenshot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+h1 /*Header*/
+{
+  font-family:inherit;
+  color: white;
+  background-color: #C595C9;
+
+
+}
+h3
+{
+  font-family: Avenir,Arial,sans-serif;
+  font-weight: lighter;
+}
+footer
+{
+  font-family:monospace;
+  font-size: small;
+  background-color:
+}
